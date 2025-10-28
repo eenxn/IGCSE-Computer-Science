@@ -1,4 +1,6 @@
-EE,88
-Guts,91
-August,73
-Chita,90
+EE,100,A*
+August,96,A*
+Guts,25,U
+Pan,31,F
+Chita,1000,A*
+Phoom,-2,U
